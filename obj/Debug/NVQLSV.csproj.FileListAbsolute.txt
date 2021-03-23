@@ -1,0 +1,6 @@
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\NVQLSV\bin\Debug\NVQLSV.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\NVQLSV\bin\Debug\NVQLSV.pdb
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\NVQLSV\obj\Debug\NVQLSV.csprojAssemblyReference.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\NVQLSV\obj\Debug\NVQLSV.csproj.CoreCompileInputs.cache
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\NVQLSV\obj\Debug\NVQLSV.dll
+D:\Download\Study\HOC\YEAR 2\HOCKY II\dotNet\WinForm\NVQLSV\obj\Debug\NVQLSV.pdb
